@@ -1,6 +1,6 @@
 # Car configurator
 
-Simple car configuration.
+Simple car configuration. [Demo](https://622e42da44fdaa00095c450d--peaceful-fermat-8b08ea.netlify.app/)
 
 ## install
 

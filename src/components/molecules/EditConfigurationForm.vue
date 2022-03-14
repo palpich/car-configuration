@@ -16,8 +16,6 @@ const emit = defineEmits<{
 }>();
 
 function handleSaveConstructorField(e: ConfigurationEntry) {
-  console.log({ e });
-
   emit("add", e);
 }
 </script>
